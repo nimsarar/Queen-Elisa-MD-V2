@@ -1,8 +1,8 @@
 {
-  "name": "💃 Queen-Elisa V2💃",
+  "name": "💃 Queen-Nimsara💃",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/DarkMakerofc/Queen-Elisa-MD",
-  "logo": "https://i.ibb.co/ZWctf3M/Queen-Elisa-Git-Lo-Go.jpg",
+  "repository": "https://github.com/nimsarar/Queen-Elisa-MD-V2",
+  "logo": "https://hb4alllink.herokuapp.com/1a9b0/file.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": {
 
@@ -19,7 +19,7 @@
 "OWNER_NUMBER" :{
   "description" : "OWNER NUMBER",
   "required" : false,
-  "value" :"94715166712"
+  "value" :"94741538531"
   },
 
  "ALIVE_MESSAGE" :{
@@ -42,7 +42,7 @@
   "LANGUAGE" :{
   "descrption" : "Select your Bot Language [ SI - sinhala / EN - english ]",
   "requred" : true,
-  "value" : "EN"
+  "value" : "SI"
   },
 
   "ANTI_LINK" :{
@@ -54,40 +54,40 @@
   "BOT_NAME" :{
   "description" : "Type your bot name",
   "requred" : false,
-  "value" :"𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐕2"
+  "value" :"NIMSARA BOT"
   },
 
   "OWNER_NAME" :{
   "description" : "Type bot owner name",
   "requred" : false,
-  "value" :"ＭＲ ＮＩＭＡ"
+  "value" :"NIMSARA"
   },
 
   "STICKER_PACK_NAME" :{
   "description" : "Type sticker package name",
   "requred" : true,
-  "value" :"𝙌𝙪𝙚𝙚𝙣 𝙀𝙡𝙞𝙨𝙖 𝙑2"
+  "value" :"𝙌𝙪𝙚𝙚𝙣 NIMSARA MD"
   },
 
   "STICKER_AUTHOR_NAME" :{
   "description" : "Type stcker autor name",
   "requred" : true,
-  "value" :"ＭＲ.ＮＩＭＡ ＯＦＣ"
+  "value" :"NIMSARA MD BOT"
   },
 
   "ALIVE_LOGO" :{
   "description" : "Elisa Bot Alive Logo",
   "requred" : true,
-  "value" :"https://telegra.ph/file/1a2dee71baa975091620d.jpg"
+  "value" :"https://hb4alllink.herokuapp.com/1ab99/file.jpg"
   },
 
   "WELCOME_MSG" :{
-  "description" : "welcome massage",
+  "description" : "speed Nimsara md bot Group welcome",
   "required" : false
   },
 
   "GOODBYE_MSG" :{
-  "description" : "welcome massage",
+  "description" : "👋Good Bay👋",
   "required" : false
   },
 
@@ -106,7 +106,7 @@
   "WAIT_MSG" :{
   "description" : "Type waiting massage",
   "requred" : true,
-  "value" :"please wait..."
+  "value" :"කරුණාකර මොහොතක් රැදෙන්න......"
   },
 
   "EXTRA_API" :{
